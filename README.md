@@ -5,6 +5,8 @@ The project has following steps which are demonstrated in a attached jupyter not
 - Exploratory Data Analysis
 - Model building
 - Deployment
-You can find the live demo of this project here 
+You can find the live demo of this project here https://car-price-predictor-gowtham.herokuapp.com/
+
+Below are the screenshots from the app
 ![image](https://user-images.githubusercontent.com/94861619/195983549-8237b645-ce99-4955-b3cc-45e42b32e934.png)
 ![image](https://user-images.githubusercontent.com/94861619/195983574-fe99308e-b396-4f75-8657-cf16193b8d80.png)
